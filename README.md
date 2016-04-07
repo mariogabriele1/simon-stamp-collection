@@ -2,6 +2,6 @@ Simon's Stamp Collection
 
 ---
 
-# About
+# About Simon
 
-Stuff
+NYT Raves this is the best stamp collection of the ages
